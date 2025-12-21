@@ -5,7 +5,7 @@
 Execute your trading plan with precision, log every trade, and track your performance—all from a secure, local desktop environment.
 
 ![App Dashboard](./images/dashboard.png)
-*(Screenshot: Main Dashboard)*
+*(Screenshot: Landing/Welcome Page)*
 
 ## 🎯 What Does This App Do?
 
