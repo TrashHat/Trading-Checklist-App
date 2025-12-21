@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Trading Checklist App
 
-## Getting Started
+**A professional desktop application for disciplined traders.**
 
-First, run the development server:
+Execute your trading plan with precision, log every trade, and track your performance—all from a secure, local desktop environment.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![App Dashboard](./images/dashboard.png)
+*(Screenshot: Main Dashboard)*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 What Does This App Do?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This app replaces messy spreadsheets and mental checklists. It forces you to follow your rules before every trade.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+*   **✅ Interactive Checklists:** Define your trading rules once. The app forces you to check them off before you can log a trade.
+*   **📝 Trade Logging:** Record your Entry, Stop Loss, Take Profit, and Profit/Loss instantly.
+*   **📸 Evidence:** Attach screenshots to every trade log to review your setups later.
+*   **📊 Performance Tracking:** Automatically calculates your Win Rate and PnL for each strategy.
+*   **🔒 100% Private:** Your data lives on **your** computer. No cloud servers, no monthly fees, no data leaks.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. Strategy Management
+Create unlimited strategies, each with its own unique checklist.
+![Strategy Page](./images/strategy.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. Trade Execution
+Follow your sub-tasks step-by-step.
+![Checklist Action](./images/checklist.png)
 
-## Deploy on Vercel
+### 3. Trade Journal
+Review your history with attached charts and notes.
+![Trade Logs](./images/logs.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📥 How to Download & Install
+
+**Windows**
+
+1.  Click the **[Releases](../../releases)** link on the right side of this page.
+2.  Download the latest file named **`Trading Checklist Setup 1.0.0.exe`**.
+3.  Run the installer.
+    *   *Note: Since this is a private tool not signed by Microsoft, Windows SmartScreen may pop up. Click "More Info" -> "Run Anyway" to complete the installation.*
+4.  The app will launch automatically!
+
+---
+
+## 🔄 Updates & Data
+
+*   **Updating:** When a new version is released, simply download the new installer and run it. Your data will be preserved automatically.
+*   **Backups:** You can export your entire trading history to a backup folder via the **Settings** menu inside the app.
