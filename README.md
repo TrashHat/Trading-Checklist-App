@@ -40,14 +40,25 @@ Review your history with attached charts and notes.
 **Windows**
 
 1.  Click the **[Releases](../../releases)** link on the right side of this page.
-2.  Download the latest file named **`Trading Checklist Setup 1.1.0.exe`**.
+2.  Download the latest file named **`Trading Checklist Setup 1.1.1.exe`**.
 3.  Run the installer.
     *   *Note: Since this is a private tool not signed by Microsoft, Windows SmartScreen may pop up. Click "More Info" -> "Run Anyway" to complete the installation.*
 4.  The app will launch automatically!
 
 ---
 
-## 🔄 Updates & Data
+## 🔄 How to Update
 
-*   **Updating:** When a new version is released, simply download the new installer and run it. Your data will be preserved automatically.
-*   **Backups:** You can export your entire trading history to a backup folder via the **Settings** menu inside the app.
+We made updating simple. You do **not** need to uninstall the old version.
+
+1.  **Notification:** The app will automatically check for updates when you open it. If a new version exists, a blue banner will appear at the top of the screen.
+2.  **Download:** Click the banner to go to the download page.
+3.  **Install:** Download the new `.exe` and run it.
+4.  **Done:** It will automatically overwrite the old version and **keep all your strategies and logs safe**.
+
+---
+
+## 🔒 Privacy & Data
+
+*   **100% Local:** Your data lives in your `AppData` folder. Uninstalling or updating the app **does not** delete your data.
+*   **Backups:** You can create PDF reports or full data backups in the **Settings** menu.
