@@ -40,7 +40,7 @@ Review your history with attached charts and notes.
 **Windows**
 
 1.  Click the **[Releases](../../releases)** link on the right side of this page.
-2.  Download the latest file named **`Trading Checklist Setup 1.3.2.exe`**.
+2.  Download the latest file named **`Trading Checklist Setup 1.3.3.exe`**.
 3.  Run the installer.
     *   *Note: Since this is a private tool not signed by Microsoft, Windows SmartScreen may pop up. Click "More Info" -> "Run Anyway" to complete the installation.*
 4.  The app will launch automatically!
